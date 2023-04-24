@@ -3,7 +3,7 @@
 This project uses the [DALL-E mini](https://github.com/borisdayma/dalle-mini) model to generate a new image based on a given prompt. The code is written in Python and uses the dalle-mini library.
 
 
-[<img src="resources/dalle-mini.png">]
+<img src="resources/dalle-mini.png">
 
 
 ## Dependencies
