@@ -1,0 +1,3 @@
+dalle-mini
+requests
+jaxlib==0.4.7
